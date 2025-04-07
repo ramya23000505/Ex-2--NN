@@ -1,7 +1,7 @@
 <H3>Name: RAMYA R</H3>
 <H3>Register no: 212223230169</H3>
 <H3>Date: 07-04-2025 </H3>
-<H3>Experiment No. 2 </H3>
+<H1>Experiment No. 2 </H1>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
