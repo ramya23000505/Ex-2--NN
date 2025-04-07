@@ -2,6 +2,7 @@
 <H3>Register no: 212223230169</H3>
 <H3>Date: 07-04-2025 </H3>
 <H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
@@ -56,6 +57,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+```
+```
 class Perceptron:
   def __init__(self,learning_rate=0.1):
     self.learning_rate = learning_rate
@@ -118,11 +121,15 @@ plt.show()
 ```        
 
 # OUTPUT:
-
 ![image](https://github.com/user-attachments/assets/4b344136-3197-4b31-9d18-2d7f96edbb1b)
+
 ![image](https://github.com/user-attachments/assets/2b17d9b4-e8e5-4b68-9b98-984137551dd8)
+
+
 ![image](https://github.com/user-attachments/assets/43fed8f6-fe81-483d-ae95-35d98d2718f5)
+
 ![image](https://github.com/user-attachments/assets/e7f58abe-88d2-49a0-8e62-35bf2ba0662e)
+
 ![image](https://github.com/user-attachments/assets/560114cc-b183-41d5-b8b1-33310a129e3d)
 
 
